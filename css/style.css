@@ -4,30 +4,30 @@
    ============================================ */
 
 :root {
-    /* Hovedfarger - Lilla/blå tema */
-    --primary: #6366f1;
-    --primary-light: #818cf8;
-    --primary-dark: #4f46e5;
-    --primary-bg: rgba(99, 102, 241, 0.1);
+    /* Hovedfarger */
+    --primary: #909090;
+    --primary-light: #9b9b9b;
+    --primary-dark: #737373;
+    --primary-bg: rgba(66, 66, 66, 0.1);
     
     /* Sekundærfarger */
-    --accent: #06b6d4;
-    --accent-light: #22d3ee;
+    --accent: #afafaf;
+    --accent-light: #eaeaea;
     
     /* Bakgrunner */
-    --bg-main: #0f172a;
-    --bg-secondary: #1e293b;
+    --bg-main: #1f1f1f;
+    --bg-secondary: #5f5f5f;
     --bg-card: #1e293b;
     --bg-input: #334155;
     
     /* Tekst */
-    --text-primary: #f1f5f9;
-    --text-secondary: #94a3b8;
-    --text-muted: #64748b;
+    --text-primary: #000000;
+    --text-secondary: #424242;
+    --text-muted: #848484;
     
     /* Chat-bobler */
-    --user-bubble: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
-    --ai-bubble: #334155;
+    --user-bubble: linear-gradient(135deg, #8f8f8f 0%, #6a6a6a 100%);
+    --ai-bubble: #3d444e;
     
     /* Annet */
     --border: #334155;
@@ -37,7 +37,6 @@
     --radius: 16px;
     --radius-sm: 8px;
     --radius-lg: 24px;
-    
     --transition: all 0.3s ease;
 }
 
