@@ -5,25 +5,25 @@
 
 :root {
     /* Hovedfarger */
-    --primary: #909090;
+    --primary: #ffffff;
     --primary-light: #9b9b9b;
     --primary-dark: #737373;
-    --primary-bg: rgba(66, 66, 66, 0.1);
+    --primary-bg: rgb(255, 255, 255);
     
     /* Sekundærfarger */
     --accent: #afafaf;
     --accent-light: #eaeaea;
     
     /* Bakgrunner */
-    --bg-main: #1f1f1f;
-    --bg-secondary: #5f5f5f;
-    --bg-card: #1e293b;
-    --bg-input: #334155;
+    --bg-main: #efefef;
+    --bg-secondary: #eaeaea;
+    --bg-card: #e6e6e6;
+    --bg-input: #ececec;
     
     /* Tekst */
     --text-primary: #000000;
-    --text-secondary: #424242;
-    --text-muted: #848484;
+    --text-secondary: #000000;
+    --text-muted: #282828;
     
     /* Chat-bobler */
     --user-bubble: linear-gradient(135deg, #8f8f8f 0%, #6a6a6a 100%);
