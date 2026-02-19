@@ -274,7 +274,7 @@ requireLogin();
             chat.appendChild(errorDiv);
             scrollToBottom();
         }
-        
+            
         // Aktiver/deaktiver input
         function setInputState(enabled) {
             messageInput.disabled = !enabled;
