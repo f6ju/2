@@ -7,7 +7,7 @@
     /* Hovedfarger */
     --primary: #ffffff;
     --primary-light: #9b9b9b;
-    --primary-dark: #737373;
+    --primary-dark: #35ffff;
     --primary-bg: rgb(255, 255, 255);
     
     /* Sekundærfarger */
@@ -23,7 +23,7 @@
     /* Tekst */
     --text-primary: #000000;
     --text-secondary: #000000;
-    --text-muted: #282828;
+    --text-muted: #1a1a1a;
     
     /* Chat-bobler */
     --user-bubble: linear-gradient(135deg, #8f8f8f 0%, #6a6a6a 100%);
