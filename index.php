@@ -77,7 +77,7 @@ requireLogin();
                     <button class="welcome__suggestion" data-message="Kan jeg bli arrestert for vape?">
                         🚬 Vape?
                     </button>
-                </div>
+                </div>w
             </div>
         </div>
         
